@@ -1,4 +1,4 @@
-# The Last Blocklist
+# *The Last Blocklist*
 
 ## What is this?
 *The Last Blocklist* is the only blocklist you will ever need! Or at least, the only one I need.
