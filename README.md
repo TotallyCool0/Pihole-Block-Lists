@@ -1,7 +1,4 @@
-# *The Last Blocklist*
+# *The Cherry On Top*
 
 ## What is this?
-*The Last Blocklist* is the only blocklist you will ever need! Or at least, the only one I need.
-Ok. I still use some. Joking aside, *The Last Blocklist* is a blocklist that combines all of the blocklists I was using for pihole.
-You can add it to your Windows hosts file, pihole adlist, or anything that uses hosts format, to add a stupid amount of domains. It blocks a lot of junk. Ads, analytics and telemetry,
-malware and phising, and adult sites. If this does not seem like the site for you, then move along.
+*The Cherry On Top* is a blocklist collection that I am hosting for myself, and others, which are additional sites that I have *personally* decided to use on my own netowrk. These sites are chosen based on my opinion, use case, and threat model. This will most likey *not* apply to **everyone**. However, *some* may find it useful. I decided to do this so others can have it, if they want it, and so I can have an organized adlist instead of manually adding domains directly and clogging up the Pihole UI.
