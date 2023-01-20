@@ -1,0 +1,39 @@
+#Add these as regex, not adlists!
+
+#Misc
+^(.*\.)*(ad-(balancer|brix|center|cloud|delivery|delivery|locus|maven|move|plus|score|srv|stir))\.([a-z]{2,3}\.)*[a-z]{2,6}$
+^(.*\.)*(app(boy|next|adhoc|celerator|ier|odeal|lovin|nexus|sflyer|boy|brain|ier|lvn|spot|timize|see|ads|lifier|lift|logrocket|-measurement|topia))\.([a-z]{2,3}\.)*[a-z]{2,6}$
+^(.*\.)*(dotomi|urbanairship|criteo|yimg|footprint|sitescout|turn|w55c|openx|voluumtrk|videoplaza|inmobi|reporo|cnzz|skim(resources|links)|tribalfusion|getsocial|hoverr|mediaplex|auditude|tacoda|puserving|d(e|o)mdex)\.([a-z]{2,3}\.)*[a-z]{2,6}$
+
+###Ads and telemetry kind of blend on some of these and I don't know which does which. I would (and have) added both.
+
+#Ad stuff
+^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+^adim(age|g)s?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
+^banners?[_.-]
+^mads\.
+adtrailer
+
+#Telemetry
+^(.+[_.-])?telemetry[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^aff(iliat(es?|ion))?[_.-]
+^analytics?[_.-]
+^beacons?[0-9]*[_.-]
+^count(ers?)?[0-9]*[_.-]
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[_.-]
+diagnostic
+
+#Internalized Domains (A good addition for security.)
+^(www[0-9]*\.)?xn--
+
+#I don't even know but I got it from one of the sites I sourced these from so it must have been important at some point... Maybe...
+whitelist:
+#Yeah that was it... Idk...
+
+#Tiktok? Yeah not on my network? XD
+#See my tiktok adlist.
+tiktok

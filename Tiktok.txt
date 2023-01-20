@@ -1,0 +1,9 @@
+#Blocks TikTok
+#On my network, only guests will have tiktok, they can get off the wifi if they want to use it.
+
+#(Idk how effective this is...)
+
+0.0.0.0 tiktok.com #Duh
+0.0.0.0 lf16-tiktok-web.ttwstatic.com
+0.0.0.0 p16-va.tiktokcnd.com
+0.0.0.0 v16.toktokcdn.com

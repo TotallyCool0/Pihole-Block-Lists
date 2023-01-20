@@ -1,0 +1,9 @@
+###### THIS LIST MAY BREAK THINGS! Everything here is unverified and I blocked beacuse I did not recognize the site. Usually I do this when I discover an ad has slipped through the cracks.
+#These sites are then added to try to patch it. These could be sites could be harmless and possibly be internet-breaking blockages. Use with caution and at your own risk.
+
+0.0.0.0 deff.nelreports.net
+0.0.0.0 e17437.dsct.akamaiedge.net
+0.0.0.0 kinesis.us-east-1.amazonaws.com
+0.0.0.0 occ-0-33-1007.1.nflxso.net
+0.0.0.0 smoot-searchv2-use1a.v.aaplimg.com
+0.0.0.0 ostlon.com

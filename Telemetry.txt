@@ -1,0 +1,46 @@
+#Telemetry Sites
+
+#Edge
+0.0.0.0 browser.events.data.msn.com
+
+#Unkown
+0.0.0.0 deff.nelreports.net
+
+#Mobile Apps
+0.0.0.0 track.playsimple.games
+
+#Aws Diagnostics (Idk where this was originating from.)
+0.0.0.0 web.diagnostic.networking.aws.dev
+
+#Netflix (Unsure if telemetry, or normal traffic. Nothing seems broken after a while...)
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 android.prod.cloud.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 nrdp.prod.ftl.netflix.com
+0.0.0.0 push.prod.netflix.com
+
+#Nvidia
+0.0.0.0 events-dc1.gfe.nvidia.com
+0.0.0.0 gfe.nvidia.com
+0.0.0.0 gfswl.geforce.com
+0.0.0.0 telemetry-dce.gfe.nvidia.com
+0.0.0.0 telemetry.nvidia.com
+
+#Google
+0.0.0.0 googletagmanager.com
+0.0.0.0 ssl.google.analytics.com
+
+#Duckduckgo (Yes, they do have some tracking and anayltics. Trust no one ig... XD)
+#Although, they do claim it is completely anonymous, harmless usage data.
+0.0.0.0 improving.duckduckgo.com
+
+#Game Trackers (I remember them being from mobile games specifically.)
+0.0.0.0  buffpanel.com
+0.0.0.0 bugsnag.com
+0.0.0.0 redshell.io
+0.0.0.0 treasuredata.com
+
+#First Party Trackers (Not so sure about these.)
+0.0.0.0 dnsdelegation.io
+0.0.0.0 eulerian.net

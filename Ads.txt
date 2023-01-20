@@ -1,0 +1,13 @@
+#Blocks Ads
+
+#Annoying Game Ads
+0.0.0.0 apptrailers.itunes.apple.com
+
+#Unity Ads
+0.0.0.0  unityads.com
+0.0.0.0 unityads.co
+
+#Roku (Last second and third could cause breakage.)
+0.0.0.0 ads.roku.com
+0.0.0.0 captive.roku.com
+0.0.0.0 logs.rokue.com
