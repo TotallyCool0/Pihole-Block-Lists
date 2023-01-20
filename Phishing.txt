@@ -1,0 +1,8 @@
+#Known Phishing Sites
+
+#OBS Phishing Sites
+0.0.0.0 obs-studio.com
+0.0.0.0 obsstudio.cam
+
+#Zoom Phishing Sites
+0.0.0.0 explorezoom.com
