@@ -37,3 +37,11 @@ whitelist:
 #Tiktok? Yeah not on my network? XD
 #See my tiktok adlist.
 tiktok
+
+#These two sites are from Russia and Chinese sites. I have to reason for them to be visited on my network, therefore I will block them as a precaution.
+
+#Russian Sites (Idk if this is a perfect solution but I figured I would add it.)
+(\.|^)ru$
+
+#Chinese Sites
+(\.|^)cn$
