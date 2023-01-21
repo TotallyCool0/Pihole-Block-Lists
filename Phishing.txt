@@ -1,4 +1,4 @@
-#Known Phishing Sites
+#Known Phishing and Malware Sites
 
 #OBS Phishing Sites
 0.0.0.0 obs-studio.com
@@ -6,3 +6,10 @@
 
 #Zoom Phishing Sites
 0.0.0.0 explorezoom.com
+
+#Potential Malware
+0.0.0.0 download-instantly.com
+0.0.0.0 goldcentre.ru
+0.0.0.0 ecobionatura.com
+0.0.0.0 dwninfo.ru
+0.0.0.0 dl.fagdmr.com
