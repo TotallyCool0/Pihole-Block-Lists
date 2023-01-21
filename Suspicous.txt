@@ -7,3 +7,8 @@
 0.0.0.0 occ-0-33-1007.1.nflxso.net
 0.0.0.0 smoot-searchv2-use1a.v.aaplimg.com
 0.0.0.0 ostlon.com
+0.0.0.0 os.50orcdns.com
+0.0.0.0 dls.nicdls.com
+0.0.0.0 fenopy.se
+0.0.0.0 rp.50orcdn.com
+0.0.0.0 powerpackmm.com
