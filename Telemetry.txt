@@ -15,7 +15,6 @@
 #Netflix (Unsure if telemetry, or normal traffic. Nothing seems broken after a while...)
 0.0.0.0 customerevents.netflix.com
 0.0.0.0 android.prod.cloud.netflix.com
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 nrdp.prod.ftl.netflix.com
 0.0.0.0 push.prod.netflix.com
