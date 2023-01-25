@@ -4,7 +4,7 @@
 0.0.0.0 apptrailers.itunes.apple.com
 
 #Unity Ads
-0.0.0.0  unityads.com
+0.0.0.0 unityads.com
 0.0.0.0 unityads.co
 
 #Roku (Last second and third could cause breakage.)
