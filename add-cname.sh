@@ -3,8 +3,6 @@
 # All records copied from https://github.com/AdguardTeam/AdGuardHome/blob/9f0fdc5e78331a9486c1be2de2d062abff63deb7/internal/filtering/safesearch.go for use with Pi-hole #
 ########################################################################################################################################
 
-echo "############### ADDING CNAME RECORDS ###############"
-
 # DuckDuckGo
 sudo pihole -a addcustomcname duckduckgo.com safe.duckduckgo.com false
 sudo pihole -a addcustomcname www.duckduckgo.com safe.duckduckgo.com false
