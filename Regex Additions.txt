@@ -46,7 +46,7 @@ tiktok
 #Chinese Sites
 (\.|^)cn$
 
-#Cyrillic Characters (These are used in phishing sites to pretend to be legitimate website. A realy, demo example used "apple.com" with the cryillic letter "a" to pretend to be apple.)
+#Cyrillic Characters (These are used in phishing sites to pretend to be legitimate website. A demo example used "apple.com" with the cryillic letter "a" to pretend to be apple.)
 #This will potentially block legit websites using this alphabet. However, I have no need for them. I can whitelist later if needed for some reason.
 #Although, this has not been tested extremely thoroughly. It seems to work well enough.
 [ЁёА-я]
